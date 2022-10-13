@@ -9,8 +9,8 @@
 ![actual-lol.png](actual-lol.png)
 ## afraid-to-ask.png
 ![afraid-to-ask.png](afraid-to-ask.png)
-## aggretsuko-rage-.png
-![aggretsuko-rage-.png](aggretsuko-rage-.png)
+## aggretsuko-rage.png
+![aggretsuko-rage.png](aggretsuko-rage.png)
 ## alarmed.png
 ![alarmed.png](alarmed.png)
 ## alheira.png
@@ -57,8 +57,8 @@
 ![blob-cute.png](blob-cute.png)
 ## blob-dance.png
 ![blob-dance.png](blob-dance.png)
-## blob-f-.png
-![blob-f-.png](blob-f-.png)
+## blob-f.png
+![blob-f.png](blob-f.png)
 ## blob-fearful.png
 ![blob-fearful.png](blob-fearful.png)
 ## blob-fistbump-left.png
@@ -853,8 +853,8 @@
 ![wow.gif](wow.gif)
 ## writing-party.gif
 ![writing-party.gif](writing-party.gif)
-## yaml-on-fire-.gif
-![yaml-on-fire-.gif](yaml-on-fire-.gif)
+## yaml-on-fire.gif
+![yaml-on-fire.gif](yaml-on-fire.gif)
 ## yass.gif
 ![yass.gif](yass.gif)
 ## yay-blob.gif
