@@ -2,11 +2,11 @@
 
 Yeah, my favourite Slack emojis. Some were created by me, but most haven't. Deal with it.
 
-[Preview](preview.md)
+[Preview](./actual-emojis/preview.md)
 
 ## Emoji Resources
 
-How to become a master emoji creator
+How to become a master emoji creator.
 
 - https://ezgif.com
 - https://www.remove.bg
