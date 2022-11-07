@@ -155,6 +155,8 @@
 ![fire-poop.png](fire-poop.png)
 ## focused-but-headache.png
 ![focused-but-headache.png](focused-but-headache.png)
+## foncused.png
+![foncused.png](foncused.png)
 ## francesinha.png
 ![francesinha.png](francesinha.png)
 ## get-well-soon.png
@@ -785,6 +787,8 @@
 ![smokin.gif](smokin.gif)
 ## sonic.gif
 ![sonic.gif](sonic.gif)
+## soon-balloon.gif
+![soon-balloon.gif](soon-balloon.gif)
 ## suspicious.gif
 ![suspicious.gif](suspicious.gif)
 ## sweat-blob-intensifies.gif
