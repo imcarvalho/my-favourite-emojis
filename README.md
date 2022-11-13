@@ -8,6 +8,7 @@ Yeah, my favourite Slack emojis. Some were created by me, but most haven't. Deal
 
 How to become a master emoji creator.
 
+- [Game changer mass emoji upload Chrome extension](https://chrome.google.com/webstore/detail/neutral-face-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej)
 - https://ezgif.com
 - https://www.remove.bg
 - https://makeemoji.com
