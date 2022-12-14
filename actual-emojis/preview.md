@@ -103,6 +103,12 @@
 ![boop-the-snoot.png](boop-the-snoot.png)
 ## brain-fried.png
 ![brain-fried.png](brain-fried.png)
+## bread-cat.png
+![bread-cat.png](bread-cat.png)
+## bread-hurricane.png
+![bread-hurricane.png](bread-hurricane.png)
+## bread-rainbow.png
+![bread-rainbow.png](bread-rainbow.png)
 ## bueno.png
 ![bueno.png](bueno.png)
 ## calculated-decision-to-leave-tech-debt-for-now-and-clean-it-up-later.png
@@ -113,6 +119,8 @@
 ![chaos-please.png](chaos-please.png)
 ## chefs-kiss.png
 ![chefs-kiss.png](chefs-kiss.png)
+## chonk.png
+![chonk.png](chonk.png)
 ## classic.png
 ![classic.png](classic.png)
 ## confused-britney.png
@@ -501,6 +509,8 @@
 ![bongocat.gif](bongocat.gif)
 ## brb.gif
 ![brb.gif](brb.gif)
+## brent_rambo.gif
+![brent_rambo.gif](brent_rambo.gif)
 ## bye-bye-bye.gif
 ![bye-bye-bye.gif](bye-bye-bye.gif)
 ## captain-america.gif
@@ -593,6 +603,8 @@
 ![eye-twitch.gif](eye-twitch.gif)
 ## fake-news.gif
 ![fake-news.gif](fake-news.gif)
+## fo-sho.gif
+![fo-sho.gif](fo-sho.gif)
 ## fox-wave.gif
 ![fox-wave.gif](fox-wave.gif)
 ## galaxy-brain-acids.gif
@@ -669,6 +681,8 @@
 ![kermit-typing.gif](kermit-typing.gif)
 ## kill-it-with-fire.gif
 ![kill-it-with-fire.gif](kill-it-with-fire.gif)
+## laughing-in-spanish.gif
+![laughing-in-spanish.gif](laughing-in-spanish.gif)
 ## lawyer-wat.gif
 ![lawyer-wat.gif](lawyer-wat.gif)
 ## learn-instantly.gif
@@ -699,6 +713,8 @@
 ![no-problem.gif](no-problem.gif)
 ## no-think-vibe-only.gif
 ![no-think-vibe-only.gif](no-think-vibe-only.gif)
+## not-bad.gif
+![not-bad.gif](not-bad.gif)
 ## nothing-to-do-here.gif
 ![nothing-to-do-here.gif](nothing-to-do-here.gif)
 ## old-man-yelling-zoom.gif
@@ -753,6 +769,10 @@
 ![rocket-party.gif](rocket-party.gif)
 ## rolling-bulbasaur.gif
 ![rolling-bulbasaur.gif](rolling-bulbasaur.gif)
+## run-forrest-run.gif
+![run-forrest-run.gif](run-forrest-run.gif)
+## run-forrest.gif
+![run-forrest.gif](run-forrest.gif)
 ## running-parrot-explosions.gif
 ![running-parrot-explosions.gif](running-parrot-explosions.gif)
 ## sad-fox.gif
