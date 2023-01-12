@@ -509,6 +509,8 @@
 ![bongocat.gif](bongocat.gif)
 ## brb.gif
 ![brb.gif](brb.gif)
+## breathe-in.gif
+![breathe-in.gif](breathe-in.gif)
 ## brent_rambo.gif
 ![brent_rambo.gif](brent_rambo.gif)
 ## bye-bye-bye.gif
@@ -849,6 +851,8 @@
 ![u-jelly.gif](u-jelly.gif)
 ## ugh.gif
 ![ugh.gif](ugh.gif)
+## unbothered-vibes.gif
+![unbothered-vibes.gif](unbothered-vibes.gif)
 ## upvote-intensifies.gif
 ![upvote-intensifies.gif](upvote-intensifies.gif)
 ## vaccine-party.gif
