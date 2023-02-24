@@ -691,6 +691,8 @@
 ![learn-instantly.gif](learn-instantly.gif)
 ## lets-go.gif
 ![lets-go.gif](lets-go.gif)
+## life-finds-a-way.gif
+![life-finds-a-way.gif](life-finds-a-way.gif)
 ## llama-roll.gif
 ![llama-roll.gif](llama-roll.gif)
 ## macgyver-approves.gif
@@ -801,6 +803,8 @@
 ![shame.gif](shame.gif)
 ## shipitparrot.gif
 ![shipitparrot.gif](shipitparrot.gif)
+## shots-fired.gif
+![shots-fired.gif](shots-fired.gif)
 ## shouts-in-italian.gif
 ![shouts-in-italian.gif](shouts-in-italian.gif)
 ## slow-clap.gif
@@ -889,6 +893,8 @@
 ![yass.gif](yass.gif)
 ## yay-blob.gif
 ![yay-blob.gif](yay-blob.gif)
+## yelling-at-cat.gif
+![yelling-at-cat.gif](yelling-at-cat.gif)
 ## yes-party.gif
 ![yes-party.gif](yes-party.gif)
 ## yes-yes-yes.gif
