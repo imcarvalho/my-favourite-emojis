@@ -547,6 +547,8 @@
 ![clap.gif](clap.gif)
 ## coffin-dance.gif
 ![coffin-dance.gif](coffin-dance.gif)
+## come-back.gif
+![come-back.gif](come-back.gif)
 ## confused-dog.gif
 ![confused-dog.gif](confused-dog.gif)
 ## confused-lady.gif
@@ -559,6 +561,8 @@
 ![crossed-fingers-intensifies.gif](crossed-fingers-intensifies.gif)
 ## cry-intensifies.gif
 ![cry-intensifies.gif](cry-intensifies.gif)
+## crying-in-spanish.gif
+![crying-in-spanish.gif](crying-in-spanish.gif)
 ## cute-heart-eyes.gif
 ![cute-heart-eyes.gif](cute-heart-eyes.gif)
 ## cute-hearts-scatter.gif
@@ -575,6 +579,8 @@
 ![cute-twerk.gif](cute-twerk.gif)
 ## damn.gif
 ![damn.gif](damn.gif)
+## dancing-doge.gif
+![dancing-doge.gif](dancing-doge.gif)
 ## dancing-samba-dog.gif
 ![dancing-samba-dog.gif](dancing-samba-dog.gif)
 ## disco-dog.gif
@@ -609,6 +615,8 @@
 ![fo-sho.gif](fo-sho.gif)
 ## fox-wave.gif
 ![fox-wave.gif](fox-wave.gif)
+## fusion.gif
+![fusion.gif](fusion.gif)
 ## galaxy-brain-acids.gif
 ![galaxy-brain-acids.gif](galaxy-brain-acids.gif)
 ## gandalf-nod.gif
@@ -649,6 +657,8 @@
 ![hype-party.gif](hype-party.gif)
 ## hype-train.gif
 ![hype-train.gif](hype-train.gif)
+## ignores-you-in-spanish.gif
+![ignores-you-in-spanish.gif](ignores-you-in-spanish.gif)
 ## ill-be-back.gif
 ![ill-be-back.gif](ill-be-back.gif)
 ## im-on-a-boat.gif
@@ -683,6 +693,8 @@
 ![kermit-typing.gif](kermit-typing.gif)
 ## kill-it-with-fire.gif
 ![kill-it-with-fire.gif](kill-it-with-fire.gif)
+## kills-you-in-spanish.gif
+![kills-you-in-spanish.gif](kills-you-in-spanish.gif)
 ## laughing-in-spanish.gif
 ![laughing-in-spanish.gif](laughing-in-spanish.gif)
 ## lawyer-wat.gif
@@ -753,6 +765,8 @@
 ![power-rangers-shrug.gif](power-rangers-shrug.gif)
 ## praying-intensifies.gif
 ![praying-intensifies.gif](praying-intensifies.gif)
+## que.gif
+![que.gif](que.gif)
 ## queenb.gif
 ![queenb.gif](queenb.gif)
 ## rainbow-frog.gif
@@ -763,6 +777,8 @@
 ![rainbows.gif](rainbows.gif)
 ## red-card.gif
 ![red-card.gif](red-card.gif)
+## relaxing.gif
+![relaxing.gif](relaxing.gif)
 ## rick-roll.gif
 ![rick-roll.gif](rick-roll.gif)
 ## right-right.gif
