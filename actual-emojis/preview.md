@@ -677,6 +677,8 @@
 ![its-gonna-be-may.gif](its-gonna-be-may.gif)
 ## its-happening.gif
 ![its-happening.gif](its-happening.gif)
+## ive-seen-things.gif
+![ive-seen-things.gif](ive-seen-things.gif)
 ## josh-appears.gif
 ![josh-appears.gif](josh-appears.gif)
 ## josh-disappears.gif
@@ -725,6 +727,8 @@
 ![my-job-here-is-done.gif](my-job-here-is-done.gif)
 ## nice-bateman.gif
 ![nice-bateman.gif](nice-bateman.gif)
+## nick-cage-pedro-pascal.gif
+![nick-cage-pedro-pascal.gif](nick-cage-pedro-pascal.gif)
 ## no-problem.gif
 ![no-problem.gif](no-problem.gif)
 ## no-think-vibe-only.gif
