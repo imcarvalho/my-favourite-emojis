@@ -459,6 +459,8 @@
 ![alarm.gif](alarm.gif)
 ## all-by-myself.gif
 ![all-by-myself.gif](all-by-myself.gif)
+## alrighty-then.gif
+![alrighty-then.gif](alrighty-then.gif)
 ## amaze-wow.gif
 ![amaze-wow.gif](amaze-wow.gif)
 ## apollo-on-fire.gif
@@ -583,6 +585,8 @@
 ![dancing-doge.gif](dancing-doge.gif)
 ## dancing-samba-dog.gif
 ![dancing-samba-dog.gif](dancing-samba-dog.gif)
+## deal-with-it-in-spanish.gif
+![deal-with-it-in-spanish.gif](deal-with-it-in-spanish.gif)
 ## disco-dog.gif
 ![disco-dog.gif](disco-dog.gif)
 ## disrespect-party.gif
@@ -703,6 +707,8 @@
 ![lawyer-wat.gif](lawyer-wat.gif)
 ## learn-instantly.gif
 ![learn-instantly.gif](learn-instantly.gif)
+## leaving-in-spanish .gif
+![leaving-in-spanish .gif](leaving-in-spanish .gif)
 ## lets-go.gif
 ![lets-go.gif](lets-go.gif)
 ## life-finds-a-way.gif
@@ -723,6 +729,10 @@
 ![mild-panic-party.gif](mild-panic-party.gif)
 ## mild-sanic.gif
 ![mild-sanic.gif](mild-sanic.gif)
+## mildly-shocked-in-spanish.gif
+![mildly-shocked-in-spanish.gif](mildly-shocked-in-spanish.gif)
+## mildly-surprised-in-spanish.gif
+![mildly-surprised-in-spanish.gif](mildly-surprised-in-spanish.gif)
 ## my-job-here-is-done.gif
 ![my-job-here-is-done.gif](my-job-here-is-done.gif)
 ## nice-bateman.gif
@@ -769,6 +779,8 @@
 ![power-rangers-shrug.gif](power-rangers-shrug.gif)
 ## praying-intensifies.gif
 ![praying-intensifies.gif](praying-intensifies.gif)
+## pretending-to-be-polite-in-spanish.gif
+![pretending-to-be-polite-in-spanish.gif](pretending-to-be-polite-in-spanish.gif)
 ## que.gif
 ![que.gif](que.gif)
 ## queenb.gif
@@ -793,6 +805,8 @@
 ![rocket-party.gif](rocket-party.gif)
 ## rolling-bulbasaur.gif
 ![rolling-bulbasaur.gif](rolling-bulbasaur.gif)
+## rolling-eyes-in-spanish.gif
+![rolling-eyes-in-spanish.gif](rolling-eyes-in-spanish.gif)
 ## run-forrest-run.gif
 ![run-forrest-run.gif](run-forrest-run.gif)
 ## run-forrest.gif
@@ -901,6 +915,8 @@
 ![want-zoom.gif](want-zoom.gif)
 ## wat-fox.gif
 ![wat-fox.gif](wat-fox.gif)
+## well-done-in-spanish.gif
+![well-done-in-spanish.gif](well-done-in-spanish.gif)
 ## what-intensifies.gif
 ![what-intensifies.gif](what-intensifies.gif)
 ## wow.gif
