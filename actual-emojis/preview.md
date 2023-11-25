@@ -27,12 +27,16 @@
 ![away.png](away.png)
 ## bacalhau.png
 ![bacalhau.png](bacalhau.png)
+## barbie.png
+![barbie.png](barbie.png)
 ## bat-signal.png
 ![bat-signal.png](bat-signal.png)
 ## big-mood.png
 ![big-mood.png](big-mood.png)
 ## birthday-llama.png
 ![birthday-llama.png](birthday-llama.png)
+## black-pug.png
+![black-pug.png](black-pug.png)
 ## blob-amazed-gasp.png
 ![blob-amazed-gasp.png](blob-amazed-gasp.png)
 ## blob-anxious.png
@@ -115,6 +119,8 @@
 ![calculated-decision-to-leave-tech-debt-for-now-and-clean-it-up-later.png](calculated-decision-to-leave-tech-debt-for-now-and-clean-it-up-later.png)
 ## cant-cope.png
 ![cant-cope.png](cant-cope.png)
+## captain-tsubasa.png
+![captain-tsubasa.png](captain-tsubasa.png)
 ## chaos-please.png
 ![chaos-please.png](chaos-please.png)
 ## chefs-kiss.png
@@ -135,12 +141,18 @@
 ![cursed-smile.png](cursed-smile.png)
 ## cute.png
 ![cute.png](cute.png)
+## daft-punk.png
+![daft-punk.png](daft-punk.png)
 ## ded.png
 ![ded.png](ded.png)
 ## drake-no.png
 ![drake-no.png](drake-no.png)
 ## drake-yes.png
 ![drake-yes.png](drake-yes.png)
+## dua-lipa.png
+![dua-lipa.png](dua-lipa.png)
+## elmo-cursed.png
+![elmo-cursed.png](elmo-cursed.png)
 ## elmo-heart.png
 ![elmo-heart.png](elmo-heart.png)
 ## everything-is-on-fire-but-its-ok.png
@@ -167,6 +179,8 @@
 ![foncused.png](foncused.png)
 ## francesinha.png
 ![francesinha.png](francesinha.png)
+## gandalf-having-a-pint-of-guinness.png
+![gandalf-having-a-pint-of-guinness.png](gandalf-having-a-pint-of-guinness.png)
 ## get-well-soon.png
 ![get-well-soon.png](get-well-soon.png)
 ## girl-cry-yup.png
@@ -219,6 +233,8 @@
 ![hug.png](hug.png)
 ## i-volunteer.png
 ![i-volunteer.png](i-volunteer.png)
+## indiana-jones.png
+![indiana-jones.png](indiana-jones.png)
 ## it-is-wednesday-my-dude.png
 ![it-is-wednesday-my-dude.png](it-is-wednesday-my-dude.png)
 ## italy.png
@@ -227,8 +243,12 @@
 ![its-something.png](its-something.png)
 ## jetpack.png
 ![jetpack.png](jetpack.png)
+## john-wick.png
+![john-wick.png](john-wick.png)
 ## kalm.png
 ![kalm.png](kalm.png)
+## kenergy.png
+![kenergy.png](kenergy.png)
 ## kermit-hah.png
 ![kermit-hah.png](kermit-hah.png)
 ## kermit-love.png
@@ -237,6 +257,8 @@
 ![kim-grin.png](kim-grin.png)
 ## legit.png
 ![legit.png](legit.png)
+## linda-evangelista.png
+![linda-evangelista.png](linda-evangelista.png)
 ## lolsob.png
 ![lolsob.png](lolsob.png)
 ## macgyver.png
@@ -267,6 +289,8 @@
 ![not-me.png](not-me.png)
 ## not-stonks.png
 ![not-stonks.png](not-stonks.png)
+## nutella.png
+![nutella.png](nutella.png)
 ## oh-dear.png
 ![oh-dear.png](oh-dear.png)
 ## oh-hi-mark.png
@@ -295,6 +319,8 @@
 ![please.png](please.png)
 ## poop-rainbow.png
 ![poop-rainbow.png](poop-rainbow.png)
+## pug.png
+![pug.png](pug.png)
 ## pun-dog.png
 ![pun-dog.png](pun-dog.png)
 ## rage-sob.png
@@ -693,6 +719,8 @@
 ![kermit-dance.gif](kermit-dance.gif)
 ## kermit-nervous.gif
 ![kermit-nervous.gif](kermit-nervous.gif)
+## kermit-pole-dancing.gif
+![kermit-pole-dancing.gif](kermit-pole-dancing.gif)
 ## kermit-scream.gif
 ![kermit-scream.gif](kermit-scream.gif)
 ## kermit-typing.gif
@@ -709,6 +737,8 @@
 ![learn-instantly.gif](learn-instantly.gif)
 ## leaving-in-spanish .gif
 ![leaving-in-spanish .gif](leaving-in-spanish .gif)
+## lets-do-this.gif
+![lets-do-this.gif](lets-do-this.gif)
 ## lets-go.gif
 ![lets-go.gif](lets-go.gif)
 ## life-finds-a-way.gif
@@ -755,6 +785,10 @@
 ![oops-i-did-it-again.gif](oops-i-did-it-again.gif)
 ## over-9000.gif
 ![over-9000.gif](over-9000.gif)
+## panic-eyes.gif
+![panic-eyes.gif](panic-eyes.gif)
+## panic-zoom.gif
+![panic-zoom.gif](panic-zoom.gif)
 ## parrot-conga.gif
 ![parrot-conga.gif](parrot-conga.gif)
 ## parrot-merged.gif
@@ -781,6 +815,8 @@
 ![praying-intensifies.gif](praying-intensifies.gif)
 ## pretending-to-be-polite-in-spanish.gif
 ![pretending-to-be-polite-in-spanish.gif](pretending-to-be-polite-in-spanish.gif)
+## pug-dance.gif
+![pug-dance.gif](pug-dance.gif)
 ## que.gif
 ![que.gif](que.gif)
 ## queenb.gif
@@ -895,6 +931,8 @@
 ![upvote-intensifies.gif](upvote-intensifies.gif)
 ## vaccine-party.gif
 ![vaccine-party.gif](vaccine-party.gif)
+## vibe-rabbit.gif
+![vibe-rabbit.gif](vibe-rabbit.gif)
 ## vv-bop.gif
 ![vv-bop.gif](vv-bop.gif)
 ## vv-bounce.gif
