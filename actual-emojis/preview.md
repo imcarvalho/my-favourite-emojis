@@ -129,6 +129,8 @@
 ![chonk.png](chonk.png)
 ## classic.png
 ![classic.png](classic.png)
+## cockroach-in-a-beret.png
+![cockroach-in-a-beret.png](cockroach-in-a-beret.png)
 ## confused-britney.png
 ![confused-britney.png](confused-britney.png)
 ## cool-cry.png
@@ -613,6 +615,8 @@
 ![dancing-samba-dog.gif](dancing-samba-dog.gif)
 ## deal-with-it-in-spanish.gif
 ![deal-with-it-in-spanish.gif](deal-with-it-in-spanish.gif)
+## derailed.gif
+![derailed.gif](derailed.gif)
 ## disco-dog.gif
 ![disco-dog.gif](disco-dog.gif)
 ## disrespect-party.gif
@@ -659,6 +663,12 @@
 ![girl-i.gif](girl-i.gif)
 ## good-morning.gif
 ![good-morning.gif](good-morning.gif)
+## good-point.gif
+![good-point.gif](good-point.gif)
+## grumpy-zoomin.gif
+![grumpy-zoomin.gif](grumpy-zoomin.gif)
+## ha-ha-no.gif
+![ha-ha-no.gif](ha-ha-no.gif)
 ## hahabusiness-intensifies.gif
 ![hahabusiness-intensifies.gif](hahabusiness-intensifies.gif)
 ## hehehe.gif
@@ -763,6 +773,8 @@
 ![mildly-shocked-in-spanish.gif](mildly-shocked-in-spanish.gif)
 ## mildly-surprised-in-spanish.gif
 ![mildly-surprised-in-spanish.gif](mildly-surprised-in-spanish.gif)
+## miss-piggy-slap.gif
+![miss-piggy-slap.gif](miss-piggy-slap.gif)
 ## my-job-here-is-done.gif
 ![my-job-here-is-done.gif](my-job-here-is-done.gif)
 ## nice-bateman.gif
@@ -897,6 +909,8 @@
 ![teamwork-intensifies.gif](teamwork-intensifies.gif)
 ## teamwork-party.gif
 ![teamwork-party.gif](teamwork-party.gif)
+## teamwork-superhero.gif
+![teamwork-superhero.gif](teamwork-superhero.gif)
 ## tell-me-why.gif
 ![tell-me-why.gif](tell-me-why.gif)
 ## tense-intensifies.gif
@@ -917,6 +931,8 @@
 ![thinking-thinking.gif](thinking-thinking.gif)
 ## this-is-fine.gif
 ![this-is-fine.gif](this-is-fine.gif)
+## this-is-the-way.gif
+![this-is-the-way.gif](this-is-the-way.gif)
 ## typescript-party.gif
 ![typescript-party.gif](typescript-party.gif)
 ## typing-cat.gif
@@ -957,12 +973,16 @@
 ![well-done-in-spanish.gif](well-done-in-spanish.gif)
 ## what-intensifies.gif
 ![what-intensifies.gif](what-intensifies.gif)
+## who-me.gif
+![who-me.gif](who-me.gif)
 ## wow.gif
 ![wow.gif](wow.gif)
 ## writing-party.gif
 ![writing-party.gif](writing-party.gif)
 ## yaml-on-fire.gif
 ![yaml-on-fire.gif](yaml-on-fire.gif)
+## yas-dance.gif
+![yas-dance.gif](yas-dance.gif)
 ## yass.gif
 ![yass.gif](yass.gif)
 ## yay-blob.gif
