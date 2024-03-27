@@ -13,3 +13,4 @@ How to become a master emoji creator.
 - https://www.remove.bg
 - https://makeemoji.com
 - https://textmoji.app
+- https://www.gif2slack.com/
