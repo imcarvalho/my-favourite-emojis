@@ -257,6 +257,10 @@
 ![kermit-love.png](kermit-love.png)
 ## kim-grin.png
 ![kim-grin.png](kim-grin.png)
+## kirby-heart.png
+![kirby-heart.png](kirby-heart.png)
+## kirby-star.png
+![kirby-star.png](kirby-star.png)
 ## legit.png
 ![legit.png](legit.png)
 ## linda-evangelista.png
@@ -381,6 +385,8 @@
 ![shocked-cat.png](shocked-cat.png)
 ## shocked-pikachu.png
 ![shocked-pikachu.png](shocked-pikachu.png)
+## shrek-god.png
+![shrek-god.png](shrek-god.png)
 ## shy.png
 ![shy.png](shy.png)
 ## slack-slow.png
@@ -391,6 +397,8 @@
 ![so_cute.png](so_cute.png)
 ## spiderman-pointing.png
 ![spiderman-pointing.png](spiderman-pointing.png)
+## spill-the-beans.png
+![spill-the-beans.png](spill-the-beans.png)
 ## stonks.png
 ![stonks.png](stonks.png)
 ## success.png
@@ -491,6 +499,8 @@
 ![alrighty-then.gif](alrighty-then.gif)
 ## amaze-wow.gif
 ![amaze-wow.gif](amaze-wow.gif)
+## antonio-banderas.gif
+![antonio-banderas.gif](antonio-banderas.gif)
 ## apollo-on-fire.gif
 ![apollo-on-fire.gif](apollo-on-fire.gif)
 ## approval.gif
@@ -543,6 +553,8 @@
 ![breathe-in.gif](breathe-in.gif)
 ## brent_rambo.gif
 ![brent_rambo.gif](brent_rambo.gif)
+## britney-grimace.gif
+![britney-grimace.gif](britney-grimace.gif)
 ## bye-bye-bye.gif
 ![bye-bye-bye.gif](bye-bye-bye.gif)
 ## captain-america.gif
@@ -571,6 +583,8 @@
 ![chocolate-party.gif](chocolate-party.gif)
 ## chompy.gif
 ![chompy.gif](chompy.gif)
+## christina-unimpressed.gif
+![christina-unimpressed.gif](christina-unimpressed.gif)
 ## christmas-parrot.gif
 ![christmas-parrot.gif](christmas-parrot.gif)
 ## clap.gif
@@ -609,6 +623,8 @@
 ![cute-twerk.gif](cute-twerk.gif)
 ## damn.gif
 ![damn.gif](damn.gif)
+## dance-swag.gif
+![dance-swag.gif](dance-swag.gif)
 ## dancing-doge.gif
 ![dancing-doge.gif](dancing-doge.gif)
 ## dancing-samba-dog.gif
@@ -631,6 +647,8 @@
 ![dramatic-look.gif](dramatic-look.gif)
 ## dramatic-owl.gif
 ![dramatic-owl.gif](dramatic-owl.gif)
+## ducky-wave.gif
+![ducky-wave.gif](ducky-wave.gif)
 ## elmo-fire.gif
 ![elmo-fire.gif](elmo-fire.gif)
 ## emotional.gif
@@ -649,6 +667,10 @@
 ![fo-sho.gif](fo-sho.gif)
 ## fox-wave.gif
 ![fox-wave.gif](fox-wave.gif)
+## frog-fire.gif
+![frog-fire.gif](frog-fire.gif)
+## frog-stick.gif
+![frog-stick.gif](frog-stick.gif)
 ## fusion.gif
 ![fusion.gif](fusion.gif)
 ## galaxy-brain-acids.gif
@@ -701,10 +723,14 @@
 ![ignores-you-in-spanish.gif](ignores-you-in-spanish.gif)
 ## ill-be-back.gif
 ![ill-be-back.gif](ill-be-back.gif)
+## ill-show-myself-out.gif
+![ill-show-myself-out.gif](ill-show-myself-out.gif)
 ## im-on-a-boat.gif
 ![im-on-a-boat.gif](im-on-a-boat.gif)
 ## in-love.gif
 ![in-love.gif](in-love.gif)
+## irony.gif
+![irony.gif](irony.gif)
 ## it-is-wednesday-my-dude-very-excited.gif
 ![it-is-wednesday-my-dude-very-excited.gif](it-is-wednesday-my-dude-very-excited.gif)
 ## it-keeps-happening.gif
@@ -739,6 +765,22 @@
 ![kill-it-with-fire.gif](kill-it-with-fire.gif)
 ## kills-you-in-spanish.gif
 ![kills-you-in-spanish.gif](kills-you-in-spanish.gif)
+## kirby-cook.gif
+![kirby-cook.gif](kirby-cook.gif)
+## kirby-link.gif
+![kirby-link.gif](kirby-link.gif)
+## kirby-run.gif
+![kirby-run.gif](kirby-run.gif)
+## kirby-sign-bye.gif
+![kirby-sign-bye.gif](kirby-sign-bye.gif)
+## kirby-sign-hi.gif
+![kirby-sign-hi.gif](kirby-sign-hi.gif)
+## kirby-sign-ok.gif
+![kirby-sign-ok.gif](kirby-sign-ok.gif)
+## kirby-sign-yay.gif
+![kirby-sign-yay.gif](kirby-sign-yay.gif)
+## kirby-sign-yes.gif
+![kirby-sign-yes.gif](kirby-sign-yes.gif)
 ## laughing-in-spanish.gif
 ![laughing-in-spanish.gif](laughing-in-spanish.gif)
 ## lawyer-wat.gif
@@ -749,6 +791,8 @@
 ![leaving-in-spanish .gif](leaving-in-spanish .gif)
 ## lets-do-this.gif
 ![lets-do-this.gif](lets-do-this.gif)
+## lets-go-bro.gif
+![lets-go-bro.gif](lets-go-bro.gif)
 ## lets-go.gif
 ![lets-go.gif](lets-go.gif)
 ## life-finds-a-way.gif
@@ -761,6 +805,10 @@
 ![magic.gif](magic.gif)
 ## mcdonalds-intensifies.gif
 ![mcdonalds-intensifies.gif](mcdonalds-intensifies.gif)
+## mercadona-intensifies.gif
+![mercadona-intensifies.gif](mercadona-intensifies.gif)
+## mercadona-train.gif
+![mercadona-train.gif](mercadona-train.gif)
 ## merge-train.gif
 ![merge-train.gif](merge-train.gif)
 ## mild-panic-intensifies.gif
@@ -775,6 +823,8 @@
 ![mildly-surprised-in-spanish.gif](mildly-surprised-in-spanish.gif)
 ## miss-piggy-slap.gif
 ![miss-piggy-slap.gif](miss-piggy-slap.gif)
+## moonbow-sailor.gif
+![moonbow-sailor.gif](moonbow-sailor.gif)
 ## my-job-here-is-done.gif
 ![my-job-here-is-done.gif](my-job-here-is-done.gif)
 ## nice-bateman.gif
@@ -809,6 +859,8 @@
 ![party-dino.gif](party-dino.gif)
 ## party-wizard.gif
 ![party-wizard.gif](party-wizard.gif)
+## peppa-pig-awkward.gif
+![peppa-pig-awkward.gif](peppa-pig-awkward.gif)
 ## phew-party.gif
 ![phew-party.gif](phew-party.gif)
 ## phoenix-wright-thinking.gif
@@ -827,6 +879,8 @@
 ![praying-intensifies.gif](praying-intensifies.gif)
 ## pretending-to-be-polite-in-spanish.gif
 ![pretending-to-be-polite-in-spanish.gif](pretending-to-be-polite-in-spanish.gif)
+## pretends-to-be-shocked.gif
+![pretends-to-be-shocked.gif](pretends-to-be-shocked.gif)
 ## pug-dance.gif
 ![pug-dance.gif](pug-dance.gif)
 ## que.gif
@@ -843,6 +897,8 @@
 ![red-card.gif](red-card.gif)
 ## relaxing.gif
 ![relaxing.gif](relaxing.gif)
+## resigned.gif
+![resigned.gif](resigned.gif)
 ## rick-roll.gif
 ![rick-roll.gif](rick-roll.gif)
 ## right-right.gif
@@ -869,6 +925,18 @@
 ![sailor-moon-donut.gif](sailor-moon-donut.gif)
 ## sailor-moon-eating.gif
 ![sailor-moon-eating.gif](sailor-moon-eating.gif)
+## sailormoon-annoyed.gif
+![sailormoon-annoyed.gif](sailormoon-annoyed.gif)
+## sailormoon-cry.gif
+![sailormoon-cry.gif](sailormoon-cry.gif)
+## sailormoon-dramatic.gif
+![sailormoon-dramatic.gif](sailormoon-dramatic.gif)
+## sailormoon-peace.gif
+![sailormoon-peace.gif](sailormoon-peace.gif)
+## sailormoon-ready.gif
+![sailormoon-ready.gif](sailormoon-ready.gif)
+## sailormoon-slap.gif
+![sailormoon-slap.gif](sailormoon-slap.gif)
 ## sanic.gif
 ![sanic.gif](sanic.gif)
 ## santa-swinging-gifts.gif
@@ -899,6 +967,8 @@
 ![sonic.gif](sonic.gif)
 ## soon-balloon.gif
 ![soon-balloon.gif](soon-balloon.gif)
+## spill-the-tea.gif
+![spill-the-tea.gif](spill-the-tea.gif)
 ## suspicious.gif
 ![suspicious.gif](suspicious.gif)
 ## sweat-blob-intensifies.gif
