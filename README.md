@@ -14,3 +14,5 @@ How to become a master emoji creator.
 - https://makeemoji.com
 - https://textmoji.app
 - https://www.gif2slack.com/
+
+And last but not least, the GOAT of all emoji repos, [All the Bufo](https://github.com/knobiknows/all-the-bufo) 
