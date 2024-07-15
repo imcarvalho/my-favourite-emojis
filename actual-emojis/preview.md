@@ -1,4 +1,6 @@
 # Preview
+## 10-out-of-10.png
+![10-out-of-10.png](10-out-of-10.png)
 ## 2-blessed-2-be-stressed.png
 ![2-blessed-2-be-stressed.png](2-blessed-2-be-stressed.png)
 ## 2-cents.png
@@ -127,6 +129,10 @@
 ![chefs-kiss.png](chefs-kiss.png)
 ## chonk.png
 ![chonk.png](chonk.png)
+## chuck-yes.png
+![chuck-yes.png](chuck-yes.png)
+## chuck2.png
+![chuck2.png](chuck2.png)
 ## classic.png
 ![classic.png](classic.png)
 ## cockroach-in-a-beret.png
@@ -139,6 +145,8 @@
 ![cry-hard.png](cry-hard.png)
 ## cry-kim.png
 ![cry-kim.png](cry-kim.png)
+## crying-laughing-vomiting-partyhat.png
+![crying-laughing-vomiting-partyhat.png](crying-laughing-vomiting-partyhat.png)
 ## cursed-smile.png
 ![cursed-smile.png](cursed-smile.png)
 ## cute.png
@@ -147,6 +155,8 @@
 ![daft-punk.png](daft-punk.png)
 ## ded.png
 ![ded.png](ded.png)
+## dolly.png
+![dolly.png](dolly.png)
 ## drake-no.png
 ![drake-no.png](drake-no.png)
 ## drake-yes.png
@@ -257,10 +267,16 @@
 ![kermit-love.png](kermit-love.png)
 ## kim-grin.png
 ![kim-grin.png](kim-grin.png)
+## kirby-cool.png
+![kirby-cool.png](kirby-cool.png)
 ## kirby-heart.png
 ![kirby-heart.png](kirby-heart.png)
+## kirby-popcorn.png
+![kirby-popcorn.png](kirby-popcorn.png)
 ## kirby-star.png
 ![kirby-star.png](kirby-star.png)
+## kirby-thumbs-up.png
+![kirby-thumbs-up.png](kirby-thumbs-up.png)
 ## legit.png
 ![legit.png](legit.png)
 ## linda-evangelista.png
@@ -283,6 +299,8 @@
 ![mild-panic-shrug.png](mild-panic-shrug.png)
 ## mild-panic.png
 ![mild-panic.png](mild-panic.png)
+## mirc.png
+![mirc.png](mirc.png)
 ## no-problem.png
 ![no-problem.png](no-problem.png)
 ## noooooo.png
@@ -313,6 +331,8 @@
 ![old-man-yelling.png](old-man-yelling.png)
 ## omg.png
 ![omg.png](omg.png)
+## one-does-not-simply.png
+![one-does-not-simply.png](one-does-not-simply.png)
 ## oof.png
 ![oof.png](oof.png)
 ## ooh-nice.png
@@ -425,6 +445,8 @@
 ![thinking-panic.png](thinking-panic.png)
 ## thread-inquisition.png
 ![thread-inquisition.png](thread-inquisition.png)
+## thumbs-up-arnie.png
+![thumbs-up-arnie.png](thumbs-up-arnie.png)
 ## thursday-what-a-concept.png
 ![thursday-what-a-concept.png](thursday-what-a-concept.png)
 ## til.png
@@ -497,6 +519,8 @@
 ![all-by-myself.gif](all-by-myself.gif)
 ## alrighty-then.gif
 ![alrighty-then.gif](alrighty-then.gif)
+## always-snape.gif
+![always-snape.gif](always-snape.gif)
 ## amaze-wow.gif
 ![amaze-wow.gif](amaze-wow.gif)
 ## antonio-banderas.gif
@@ -509,6 +533,8 @@
 ![aw-yeah.gif](aw-yeah.gif)
 ## awkward-monkey.gif
 ![awkward-monkey.gif](awkward-monkey.gif)
+## awkward-smile.gif
+![awkward-smile.gif](awkward-smile.gif)
 ## bear-hug.gif
 ![bear-hug.gif](bear-hug.gif)
 ## bike-shedding-party.gif
@@ -555,6 +581,20 @@
 ![brent_rambo.gif](brent_rambo.gif)
 ## britney-grimace.gif
 ![britney-grimace.gif](britney-grimace.gif)
+## buu-bee-love-dog.gif
+![buu-bee-love-dog.gif](buu-bee-love-dog.gif)
+## buu-clap.gif
+![buu-clap.gif](buu-clap.gif)
+## buu-eating.gif
+![buu-eating.gif](buu-eating.gif)
+## buu-feeling-relax.gif
+![buu-feeling-relax.gif](buu-feeling-relax.gif)
+## buu-here-we-go-monday.gif
+![buu-here-we-go-monday.gif](buu-here-we-go-monday.gif)
+## buu-mocking.gif
+![buu-mocking.gif](buu-mocking.gif)
+## buu-no-no-no.gif
+![buu-no-no-no.gif](buu-no-no-no.gif)
 ## bye-bye-bye.gif
 ![bye-bye-bye.gif](bye-bye-bye.gif)
 ## captain-america.gif
@@ -663,6 +703,8 @@
 ![eye-twitch.gif](eye-twitch.gif)
 ## fake-news.gif
 ![fake-news.gif](fake-news.gif)
+## fake-smile.gif
+![fake-smile.gif](fake-smile.gif)
 ## fo-sho.gif
 ![fo-sho.gif](fo-sho.gif)
 ## fox-wave.gif
@@ -695,6 +737,8 @@
 ![hahabusiness-intensifies.gif](hahabusiness-intensifies.gif)
 ## hehehe.gif
 ![hehehe.gif](hehehe.gif)
+## hello-i-ate-too-much.gif
+![hello-i-ate-too-much.gif](hello-i-ate-too-much.gif)
 ## here-we-go.gif
 ![here-we-go.gif](here-we-go.gif)
 ## hero-intensifies.gif
@@ -769,6 +813,10 @@
 ![kirby-cook.gif](kirby-cook.gif)
 ## kirby-link.gif
 ![kirby-link.gif](kirby-link.gif)
+## kirby-rainbow2.gif
+![kirby-rainbow2.gif](kirby-rainbow2.gif)
+## kirby-roll.gif
+![kirby-roll.gif](kirby-roll.gif)
 ## kirby-run.gif
 ![kirby-run.gif](kirby-run.gif)
 ## kirby-sign-bye.gif
@@ -833,6 +881,8 @@
 ![nick-cage-pedro-pascal.gif](nick-cage-pedro-pascal.gif)
 ## no-problem.gif
 ![no-problem.gif](no-problem.gif)
+## no-problemo.gif
+![no-problemo.gif](no-problemo.gif)
 ## no-think-vibe-only.gif
 ![no-think-vibe-only.gif](no-think-vibe-only.gif)
 ## not-bad.gif
@@ -957,6 +1007,8 @@
 ![shots-fired.gif](shots-fired.gif)
 ## shouts-in-italian.gif
 ![shouts-in-italian.gif](shouts-in-italian.gif)
+## siuuu.gif
+![siuuu.gif](siuuu.gif)
 ## slow-clap.gif
 ![slow-clap.gif](slow-clap.gif)
 ## smiling-cat.gif
@@ -1067,15 +1119,25 @@
 ![yikes-tm.gif](yikes-tm.gif)
 ## yikes.gif
 ![yikes.gif](yikes.gif)
+## yoshi-blob.gif
+![yoshi-blob.gif](yoshi-blob.gif)
 ## you-get-a-car.gif
 ![you-get-a-car.gif](you-get-a-car.gif)
 ## you-tried.gif
 ![you-tried.gif](you-tried.gif)
 ## youre-welcome.gif
 ![youre-welcome.gif](youre-welcome.gif)
+## chuck1.jpg
+![chuck1.jpg](chuck1.jpg)
 ## halp.jpg
 ![halp.jpg](halp.jpg)
 ## llama-scream.jpg
 ![llama-scream.jpg](llama-scream.jpg)
 ## nice.jpg
 ![nice.jpg](nice.jpg)
+## vince-excited.jpg
+![vince-excited.jpg](vince-excited.jpg)
+## vince-interested.jpg
+![vince-interested.jpg](vince-interested.jpg)
+## vince-losing-it.jpg
+![vince-losing-it.jpg](vince-losing-it.jpg)
