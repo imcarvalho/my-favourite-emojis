@@ -17,6 +17,8 @@
 ![alarmed.png](alarmed.png)
 ## alheira.png
 ![alheira.png](alheira.png)
+## alo-salut-sunt-eu-un-haiduc.png
+![alo-salut-sunt-eu-un-haiduc.png](alo-salut-sunt-eu-un-haiduc.png)
 ## anarchy.png
 ![anarchy.png](anarchy.png)
 ## approved.png
@@ -141,6 +143,8 @@
 ![confused-britney.png](confused-britney.png)
 ## cool-cry.png
 ![cool-cry.png](cool-cry.png)
+## corporate-baddie-vibes.png
+![corporate-baddie-vibes.png](corporate-baddie-vibes.png)
 ## cry-hard.png
 ![cry-hard.png](cry-hard.png)
 ## cry-kim.png
@@ -581,6 +585,8 @@
 ![brent_rambo.gif](brent_rambo.gif)
 ## britney-grimace.gif
 ![britney-grimace.gif](britney-grimace.gif)
+## bufo-head-shake.gif
+![bufo-head-shake.gif](bufo-head-shake.gif)
 ## buu-bee-love-dog.gif
 ![buu-bee-love-dog.gif](buu-bee-love-dog.gif)
 ## buu-clap.gif
@@ -655,6 +661,8 @@
 ![cute-hmm.gif](cute-hmm.gif)
 ## cute-intensifies.gif
 ![cute-intensifies.gif](cute-intensifies.gif)
+## cute-jealous.gif
+![cute-jealous.gif](cute-jealous.gif)
 ## cute-sassy-walk.gif
 ![cute-sassy-walk.gif](cute-sassy-walk.gif)
 ## cute-spit-out.gif
@@ -669,6 +677,8 @@
 ![dancing-doge.gif](dancing-doge.gif)
 ## dancing-samba-dog.gif
 ![dancing-samba-dog.gif](dancing-samba-dog.gif)
+## darth-vader-walk.gif
+![darth-vader-walk.gif](darth-vader-walk.gif)
 ## deal-with-it-in-spanish.gif
 ![deal-with-it-in-spanish.gif](deal-with-it-in-spanish.gif)
 ## derailed.gif
@@ -787,6 +797,8 @@
 ![its-gonna-be-may.gif](its-gonna-be-may.gif)
 ## its-happening.gif
 ![its-happening.gif](its-happening.gif)
+## its-what-i-do.gif
+![its-what-i-do.gif](its-what-i-do.gif)
 ## ive-seen-things.gif
 ![ive-seen-things.gif](ive-seen-things.gif)
 ## josh-appears.gif
@@ -915,6 +927,8 @@
 ![phew-party.gif](phew-party.gif)
 ## phoenix-wright-thinking.gif
 ![phoenix-wright-thinking.gif](phoenix-wright-thinking.gif)
+## pigeon-dance.gif
+![pigeon-dance.gif](pigeon-dance.gif)
 ## pikachu-hello.gif
 ![pikachu-hello.gif](pikachu-hello.gif)
 ## popcorn-intensifies.gif
