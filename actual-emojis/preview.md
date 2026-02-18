@@ -5,8 +5,6 @@
 ![2-blessed-2-be-stressed.png](2-blessed-2-be-stressed.png)
 ## 2-cents.png
 ![2-cents.png](2-cents.png)
-## I-cant.png
-![I-cant.png](I-cant.png)
 ## actual-lol.png
 ![actual-lol.png](actual-lol.png)
 ## afraid-to-ask.png
@@ -247,8 +245,12 @@
 ![hug-hyper.png](hug-hyper.png)
 ## hug.png
 ![hug.png](hug.png)
+## I-cant.png
+![I-cant.png](I-cant.png)
 ## i-volunteer.png
 ![i-volunteer.png](i-volunteer.png)
+## ikari-shinji-pain.png
+![ikari-shinji-pain.png](ikari-shinji-pain.png)
 ## indiana-jones.png
 ![indiana-jones.png](indiana-jones.png)
 ## it-is-wednesday-my-dude.png
@@ -963,6 +965,8 @@
 ![pigeon-dance.gif](pigeon-dance.gif)
 ## pikachu-crazy.gif
 ![pikachu-crazy.gif](pikachu-crazy.gif)
+## pikachu-eyebrows-vv.gif
+![pikachu-eyebrows-vv.gif](pikachu-eyebrows-vv.gif)
 ## pikachu-hello.gif
 ![pikachu-hello.gif](pikachu-hello.gif)
 ## popcorn-intensifies.gif
@@ -1131,6 +1135,8 @@
 ![vibe-rabbit.gif](vibe-rabbit.gif)
 ## vv-bop.gif
 ![vv-bop.gif](vv-bop.gif)
+## vv-bounce-santa.gif
+![vv-bounce-santa.gif](vv-bounce-santa.gif)
 ## vv-bounce.gif
 ![vv-bounce.gif](vv-bounce.gif)
 ## vv-fast.gif
@@ -1155,6 +1161,8 @@
 ![what-intensifies.gif](what-intensifies.gif)
 ## who-me.gif
 ![who-me.gif](who-me.gif)
+## why-are-you-so-obsessed-with-me.gif
+![why-are-you-so-obsessed-with-me.gif](why-are-you-so-obsessed-with-me.gif)
 ## wow.gif
 ![wow.gif](wow.gif)
 ## writing-party.gif
