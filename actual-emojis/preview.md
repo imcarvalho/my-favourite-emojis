@@ -13,6 +13,8 @@
 ![aggretsuko-rage.png](aggretsuko-rage.png)
 ## alarmed.png
 ![alarmed.png](alarmed.png)
+## alerta-cm.png
+![alerta-cm.png](alerta-cm.png)
 ## alheira.png
 ![alheira.png](alheira.png)
 ## alo-salut-sunt-eu-un-haiduc.png
